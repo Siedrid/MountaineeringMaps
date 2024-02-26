@@ -1,6 +1,7 @@
 # MountaineeringMaps
 Self-created Maps of Hikes and Peaks planned for 2024. Maps are the final submission for the Scientific Maps Course at the University of Würzburg.
 
+![alt text](https://github.com/Siedrid/MountaineeringMaps/blob/master/Final%20Maps/3dmap_nolegend.png?raw=true)
 
 ![alt text](https://github.com/Siedrid/MountaineeringMaps/blob/master/Final%20Maps/output_8.png?raw=true)
 
